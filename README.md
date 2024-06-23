@@ -33,6 +33,9 @@ You can install packages using `install.packages("package_name")` in R.
 2. **Install required packages:**
 ```R
 install.packages(c("dplyr", "ggplot2", "reshape2", "caret", "randomForest", "openxlsx", "readxl", "e1071"))
+3.Use the [raw_data.xlsx] to run the data preprocessing R source code.
+4.Use the [cleaned_data.xlsx] to run the data mining technique R source code.
+
 
 ## Results
 1.raw_data: is the actual data gathered from kaggle website, https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
